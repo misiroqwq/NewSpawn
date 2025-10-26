@@ -6,4 +6,4 @@
 - Original repository was deleted by me
 - Reupload by directly copying from [BallanceMods](https://github.com/doyaGu/BallanceMods/tree/main/NewSpawn)
 ### Usage
-- 详见 [NewSpawn使用方法](https://github.com/Xenapte/ballance-mod-docs-zh/wiki/%E6%96%87%E6%A1%A3#newspawn)
+- [NewSpawn](https://github.com/Xenapte/ballance-mod-docs-zh/wiki/%E6%96%87%E6%A1%A3#newspawn)

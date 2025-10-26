@@ -1,5 +1,6 @@
 ### About
 - Ballance mod, based on [Ballance Mod Loader Plus](https://github.com/doyaGu/BallanceModLoaderPlus)
+- If you need to compile this project, you might need to check here: [NewSpawn](https://github.com/doyaGu/BallanceMods/tree/main/NewSpawn)
 ### History
 - Originally developed by me
 - Bug fixes by [doyaGu](https://github.com/doyaGu)
